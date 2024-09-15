@@ -1,0 +1,25 @@
+*{
+padding: 0%;
+margin: 0%;
+}
+.id{
+    background-color: rgb(170, 114, 223);
+    width: 100%;
+    height: 900px;
+    padding: 20px;
+}
+img{
+    height: 350px;
+    width: 250px;
+    border-radius: 100%;
+    box-shadow: 2px 2px 5px 4px red;
+}
+.id2{
+    background-image: url(https://thumbs.dreamstime.com/b/ai-generated-illustration-vibrant-balloons-soar-confetti-sky-colorful-balloons-flying-confetti-315489337.jpg
+    );
+    background-repeat: no-repeat;
+    box-sizing: cover;
+    color:black;
+    border-radius: 200% 200%;
+    
+}
